@@ -2,7 +2,7 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### `Clone project`
+### Clone project
 
 `git clone https://github.com/vijayaganth/saal.git`
 
