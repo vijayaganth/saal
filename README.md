@@ -4,11 +4,17 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### `Clone project`
 
-git clone https://github.com/vijayaganth/saal.git
+`git clone https://github.com/vijayaganth/saal.git`
+
+Run this above comment your terminal to target workspace folder.
 
 ## Available Scripts
 
 In the project directory, you can run:
+
+### `npm install`
+
+Install project at your local workspace
 
 ### `npm start`
 
