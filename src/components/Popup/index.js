@@ -5,7 +5,6 @@ import { useRowContext } from "../../hooks/RowProvider";
 const Popup = ({ open, children, Title, style, classSelect = "" }) => {
   const { setPopupOpen } = usePopup();
   const { setCurrentRow, setCurrentColumn } = useRowContext();
-
   const handlePopupClose = () => {
     setPopupOpen(false);
     setCurrentRow(null);
